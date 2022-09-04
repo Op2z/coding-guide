@@ -24,6 +24,9 @@ public class FirstClass {
         Scanner sc = new Scanner("string");
         Scanner sc2 = new Scanner(System.in);
 
+        Car c = new Car();
+
+
     }
 }
 
